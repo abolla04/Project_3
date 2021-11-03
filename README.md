@@ -16,7 +16,10 @@ This contract is designed to promote exclusive event experiences within the Puge
 
 * [Vanity-ETH](https://vanity-eth.tk/) - For creating Ethereum vanity addresses to use witht the MetaMask wallet.
 
-* [MetaMask]
+* [MetaMask](https://docs.metamask.io/guide/) - For secure and usable Ethereum-based web sites. In particular, it handles account management and connecting the user to the blockchain.
+
+
+
 ---
 
 ## Installation Guide
