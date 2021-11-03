@@ -1,6 +1,6 @@
 ![](./Images/light_waves.jpg)
 
-# Project_3: Sonat Sonos Token
+# Project 3: Sonat Sonos Token
 This contract is designed to promote exclusive event experiences within the Puget Sound region.  Local event promoters work with artists to provide event seekers a unique VIP experience to see concerts, art exhibits and attractions, just to name a few.  The tokens issued through the contract allow the user to build an exciting experience that includes the event, food and beverages, and even transportation.  When tokens are not used, the funding is returned to the event promoters along with a portion going to the artists.
 
 
