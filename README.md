@@ -18,8 +18,10 @@ This contract is designed to promote exclusive event experiences within the Puge
 
 * [MetaMask](https://docs.metamask.io/guide/) - For secure and usable Ethereum-based web sites. In particular, it handles account management and connecting the user to the blockchain.
 
-
+* [OpenZeppelin](https://docs.openzeppelin.com/openzeppelin/) - OpenZeppelin provides security products to build, automate, and operate decentralized applications.
 
 ---
 
 ## Installation Guide
+
+To run this contract, clone this repository and run the 'SonatSonos.sol' and 'Time_Sensitive.sol' files on your computer in the Remix IDE. 
