@@ -20,8 +20,23 @@ This contract is designed to promote exclusive event experiences within the Puge
 
 * [OpenZeppelin](https://docs.openzeppelin.com/openzeppelin/) - OpenZeppelin provides security products to build, automate, and operate decentralized applications.
 
+* [Vecteezy](https://www.vecteezy.com/) - High quality images created by the world's most talented design community. Find and download high quality vector graphics with worry-free licensing.
+
 ---
 
 ## Installation Guide
 
 To run this contract, clone this repository and run the 'SonatSonos.sol' and 'Time_Sensitive.sol' files on your computer in the Remix IDE. 
+
+
+---
+
+## Examples
+
+The images below are examples of what the joint_savings.sol file will display when you run it.
+
+---
+
+---
+
+## Contributors
