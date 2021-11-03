@@ -1,5 +1,3 @@
-![](./Images/light_waves.JPG)
+![](./Images/light_waves.jpg)
 
 # Project_3: Sonat Sonos Token
-
-![](./Images/light_waves.jpg)
