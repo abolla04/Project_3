@@ -39,6 +39,7 @@ The images below are examples of what the joint_savings.sol file will display wh
 
 ---
 
----
-
 ## Contributors
+
+Alissa Bolla
+Andrew McKay III
