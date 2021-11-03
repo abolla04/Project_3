@@ -28,7 +28,9 @@ This contract is designed to promote exclusive event experiences within the Puge
 
 To run this contract, clone this repository and run the 'SonatSonos.sol' and 'Time_Sensitive.sol' files on your computer in the Remix IDE. 
 
+![SonatSonos](./Images/SonatSonos.PNG)
 
+![TimeSensitive](./Images/TimeSensitive.PNG)
 ---
 
 ## Examples
