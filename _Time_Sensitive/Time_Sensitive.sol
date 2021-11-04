@@ -7,7 +7,7 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/validation/TimedCrowdsale.sol";
 
 
-contract ExampleTokenCrowdsale is Crowdsale, MintedCrowdsale, CappedCrowdsale, TimedCrowdsale{
+contract TimeSensitiveCrowdsale is Crowdsale, MintedCrowdsale, CappedCrowdsale, TimedCrowdsale{
 
 	//minimum investor Contribution - 2 ether
 	//minimum investor Contribution - 50 ether
