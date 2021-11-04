@@ -14,9 +14,11 @@ This contract is designed to promote exclusive event experiences within the Puge
 
 * [Remix IDE](https://remix-ide.readthedocs.io/en/latest/) - For the entire journey of contract development as well as being a playground for learning and teaching Ethereum.
 
-* [Vanity-ETH](https://vanity-eth.tk/) - For creating Ethereum vanity addresses to use witht the MetaMask wallet.
+* [Unix Time Stamp](https://www.unixtimestamp.com/index.php) - For tracking time as a running total of seconds. This count starts at the Unix Epoch on January 1st, 1970 at UTC.
 
 * [MetaMask](https://docs.metamask.io/guide/) - For secure and usable Ethereum-based web sites. In particular, it handles account management and connecting the user to the blockchain.
+
+* [Ganache](https://www.trufflesuite.com) - For quickly firing up a personal Ethereum blockchain which can be used to run tests, execute commands, and inspect state while controlling how the chain operates.
 
 * [OpenZeppelin](https://docs.openzeppelin.com/openzeppelin/) - OpenZeppelin provides security products to build, automate, and operate decentralized applications.
 
