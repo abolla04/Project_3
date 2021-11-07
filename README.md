@@ -37,7 +37,29 @@ To run this contract, clone this repository and run the 'SonatSonos.sol' and 'Ti
 
 ## Examples
 
-The images below are examples of what the joint_savings.sol file will display when you run it.
+The images below are examples of what the 'SonatSonos.sol' and 'Time_Sensitive.sol' files will display when they are run in Remix IDE and MetaMask.
+
+SonatSonos.sol:
+
+![remix_present](./Images/remix_present.PNG)
+
+![mm_present](./Images/mm_present.PNG)
+
+![import_present](./Images/import_present.PNG)
+
+![import_complete_present](./Images/import_complete_present.PNG)
+
+Time_Sensitive.sol:
+
+![remix_present_2](./Images/remix_present_2.PNG)
+
+![mm_present_2](./Images/mm_present_2.PNG)
+
+Unixe Time Stamp Conversion:
+
+![opening_time](./Images/opening_time.PNG)
+
+![closing_time](./Images/closing_time.PNG)
 
 ---
 
@@ -45,3 +67,9 @@ The images below are examples of what the joint_savings.sol file will display wh
 
 Alissa Bolla
 Andrew McKay III
+
+---
+
+## License
+
+MIT
