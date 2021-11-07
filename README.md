@@ -55,7 +55,7 @@ Time_Sensitive.sol:
 
 ![mm_present_2](./Images/mm_present_2.png)
 
-Unixe Time Stamp Conversion:
+Unix Time Stamp Conversion:
 
 ![opening_time](./Images/opening_time.png)
 
