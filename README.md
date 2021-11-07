@@ -41,25 +41,25 @@ The images below are examples of what the 'SonatSonos.sol' and 'Time_Sensitive.s
 
 SonatSonos.sol:
 
-![remix_present](./Images/remix_present.PNG)
+![remix_present](./Images/remix_present.png)
 
-![mm_present](./Images/mm_present.PNG)
+![mm_present](./Images/mm_present.png)
 
-![import_present](./Images/import_present.PNG)
+![import_present](./Images/import_present.png)
 
-![import_complete_present](./Images/import_complete_present.PNG)
+![import_complete_present](./Images/import_complete_present.png)
 
 Time_Sensitive.sol:
 
-![remix_present_2](./Images/remix_present_2.PNG)
+![remix_present_2](./Images/remix_present_2.png)
 
-![mm_present_2](./Images/mm_present_2.PNG)
+![mm_present_2](./Images/mm_present_2.png)
 
 Unixe Time Stamp Conversion:
 
-![opening_time](./Images/opening_time.PNG)
+![opening_time](./Images/opening_time.png)
 
-![closing_time](./Images/closing_time.PNG)
+![closing_time](./Images/closing_time.png)
 
 ---
 
